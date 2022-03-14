@@ -1,6 +1,7 @@
 # FrontEnd-VaccineLandingPage
 Link: https://vaccinewebsiteclone.netlify.app/
-Clonación de página que está en el siguiente enlace https://github.com/LaunchX-InnovaccionVirtual/FrontEnd-Mision/blob/main/03%20-%20CSS/practica/landingVacunaci%C3%B3n.png del diseño by Adhiari Subekti
+Clonación de página que está en el siguiente enlace:
+https://github.com/LaunchX-InnovaccionVirtual/FrontEnd-Mision/blob/main/03%20-%20CSS/practica/landingVacunaci%C3%B3n.png del diseño by Adhiari Subekti
 
 La práctica consiste en lo siguiente:
 
