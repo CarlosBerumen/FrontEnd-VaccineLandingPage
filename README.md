@@ -1,6 +1,6 @@
 # FrontEnd-VaccineLandingPage
-Link: https://vaccinewebsiteclone.netlify.app/
-
+Link de despliegue: https://vaccinewebsiteclone.netlify.app/
+No responsive.
 
 Clonación de página que está en el siguiente enlace https://github.com/LaunchX-InnovaccionVirtual/FrontEnd-Mision/blob/main/03%20-%20CSS/practica/landingVacunaci%C3%B3n.png
 by Adhiari Subekti
